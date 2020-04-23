@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="password">Password</string>
+    <string name="username">Email or Username</string>
+    <string name="logohead1">WelCome to</string>
+    <string name="logohead2">STAZER BLOG</string>
+    <string name="buttonlogin">Tap to Login</string>
+    <string name="newregisterbutton">Need A New Account </string>
+    <string name="action_search_text">Search</string>
+    <string name="accout_settings_text">Accout Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="setup_user_name">Your Name</string>
+    <string name="setup_save_account_settings_text">Save Account Settings</string>
+</resources>

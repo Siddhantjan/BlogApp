@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588486069826",
+    "firebase_url": "https://blogapp-7ece1.firebaseio.com",
+    "project_id": "blogapp-7ece1",
+    "storage_bucket": "blogapp-7ece1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588486069826:android:b3c7e0b58a3a53b5fe27db",
+        "android_client_info": {
+          "package_name": "com.siddhant.presonal.app.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588486069826-jo4et0ud74hm4ibdq85tkarbsd36hcjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQCj5KunsBTGcmX41hGHTBbTMid8-Q1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588486069826-jo4et0ud74hm4ibdq85tkarbsd36hcjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
